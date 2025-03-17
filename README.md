@@ -14,6 +14,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Kimi k1.5: Scaling Reinforcement Learning with LLMs [[paper]](https://arxiv.org/abs/2501.12599) 
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[paper]](https://arxiv.org/pdf/2503.10615) [[code]](https://github.com/Fancy-MLLM/R1-Onevision) [[R1-Onevision Data]](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) 
 - MMR1: Advancing the Frontiers of Multimodal Reasoning [[code]](https://github.com/LengSicong/MMR1) [[MMR1-Math-RL-Data-v0]](https://huggingface.co/datasets/MMR1/MMR1-Math-RL-Data-v0)
 - LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL [[paper]](https://arxiv.org/abs/2503.07536) [[code]](https://github.com/TideDra/lmm-r1) [[VerMulti]](https://huggingface.co/datasets/VLM-Reasoner/VerMulti) 
