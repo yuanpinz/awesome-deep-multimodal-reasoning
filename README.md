@@ -5,7 +5,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 #### Visual Understanding
 
 - **[Image]** Visual Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT) [[ViRFT]](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)
-- **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]]((https://huggingface.co/datasets/omlab/VLM-R1) )
+- **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
