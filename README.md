@@ -28,11 +28,14 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 ### Datasets
 
-- [Training] [LLaVA-R1-100k](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k) - LLaVA多模态Reasoning数据集
-- [Benchmarking] [MMMU-Reasoning-R1-Distill-Validation](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation) - MMMU-满血版R1蒸馏多模态Reasoning验证集
+- **[Training]** [LLaVA-R1-100k](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k) - LLaVA多模态Reasoning数据集
+- **[Benchmarking]** [MMMU-Reasoning-R1-Distill-Validation](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation) - MMMU-满血版R1蒸馏多模态Reasoning验证集
 
-### Acknowledgement
+### Related Collections
 
-[modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)
+- [Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
+- [modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)
+- [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
+- [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
-
+- [srush/awesome-o1](https://github.com/srush/awesome-o1)
