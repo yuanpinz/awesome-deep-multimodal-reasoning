@@ -46,7 +46,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 - MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[paper]](https://arxiv.org/abs/2502.00698) [[code]](https://github.com/AceCHQ/MMIQ)
 - MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[paper]](https://arxiv.org/abs/2502.09621) [[code]](https://github.com/CaraJ7/MME-CoT)
-- ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[paper]](https://arxiv.org/pdf/2502.09696) [[code]](https://github.com/jonathan-roberts1/zerobench/)
+- ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[paper]](https://arxiv.org/pdf/2502.09696) [[code]](https://github.com/jonathan-roberts1/zerobench/) 
 
 ### Datasets
 
