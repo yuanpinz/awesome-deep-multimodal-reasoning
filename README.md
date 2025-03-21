@@ -69,6 +69,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2503.13939v2)
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 - **[EMNLP2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
