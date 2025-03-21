@@ -1,6 +1,21 @@
 # Awesome-deep-multimodal-reasoning
 Collect the awesome works evolved around reasoning models like O1/R1 in multimodal domain.
 
+> I distinguish between **Visual Understanding** and **Visual Reasoning** based on my personal interpretation - while an ideal model should possess both capabilities, different research efforts tend to emphasize one aspect over the other.
+>
+> - **Visual Understanding** focuses on image-centric comprehension, typically employing vision-language tasks like RefCOCO (as used in VLM-R1).
+> - **Visual Reasoning** emphasizes logical inference where visual information primarily supplements textual context, exemplified by tasks like MathVision.
+>
+> Vertical Domains like **Robotics/Spatial**, **Medical**, and **Audio** are categorized separately, though their methodologies often overlap with either Visual Understanding or Reasoning approaches.
+>
+> The **Generation** category presents an interesting intersection, leveraging reasoning-based methods to produce multimodal content.
+>
+> **Datasets** here refer to aggregated resources not specifically tied to individual projects - primarily including R1/O1 distilled datasets and benchmark collections.
+>
+> **Infrastructure** encompasses essential libraries and tools for model training.
+>
+> **Related Collections** serves as a catch-all category for other relevant resources.
+
 ### Surveys
 
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
@@ -96,3 +111,4 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
 - [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 - [srush/awesome-o1](https://github.com/srush/awesome-o1)
+
