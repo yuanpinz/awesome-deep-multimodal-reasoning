@@ -38,6 +38,10 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 
+#### Audio
+
+- R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
+
 #### Generation
 
 - GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
