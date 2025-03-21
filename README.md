@@ -10,19 +10,25 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 #### Visual Understanding
 
 - **[Image]** Grounded Chain-of-Thought for Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2503.12799)
+- **[Image]** VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[paper]](https://arxiv.org/abs/2503.07523) [[code]](https://github.com/zhangquanchen/VisRL)
 - **[Image]** DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding [[paper]](https://arxiv.org/abs/2503.12797) [[code]](https://github.com/thunlp/DeepPerception) [[KVG]](https://huggingface.co/datasets/MaxyLee/KVG) 
-- **[Image]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
 - **[Image]** Visual Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT) [[ViRFT]](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)
 - **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
 - **[Image]** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) [[code]](https://github.com/dvlab-research/Seg-Zero) [ [refCOCOg_2k_840]](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840)
+- **[Image]** **[Understanding & Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
+- **[Image]** **[Understanding & Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
+- **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 - **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
+- **[Video]** CoS: Chain-of-Shot Prompting for Long Video Understanding [[paper]](https://arxiv.org/abs/2502.06428) [[code]](https://github.com/lwpyh/CoS_codes)
+- **[Video]** **[WWW2025]** Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning [[paper]](https://openreview.net/forum?id=lq2jDWv3w0#discussion) 
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
 - **[Omni]** R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) [[code]](https://github.com/HumanMLLM/R1-Omni)
 
 #### Visual Reasoning
 
+- R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2503.12937) [[code]](https://github.com/jingyi0000/R1-VL)
 - Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models? [[paper]](https://arxiv.org/abs/2503.06252) [[code]](https://github.com/Quinn777/AtomThink)
 - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2503.10291) [[code]](https://huggingface.co/OpenGVLab/VisualPRM-8B)  [[VisualPRM400K]](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)
 - Kimi k1.5: Scaling Reinforcement Learning with LLMs [[paper]](https://arxiv.org/abs/2501.12599) 
@@ -50,14 +56,18 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
+- **[EMNLP2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
 
 #### Audio
 
 - R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
+- Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
 
 #### Generation
 
 - GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
+- **[CVPR2025]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[paper]](https://arxiv.org/abs/2501.13926) [[code]](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+- **[ICLR2025]** Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation [[paper]](https://arxiv.org/abs/2410.10676) [[code]](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open)
 
 #### Benchmarks
 
