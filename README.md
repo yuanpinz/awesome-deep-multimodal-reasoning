@@ -1,19 +1,29 @@
 # Awesome-deep-multimodal-reasoning
 Collect the awesome works evolved around reasoning models like O1/R1 in multimodal domain.
 
+### Surveys
+
+- Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
+
 ### Papers/Projects
+
 #### Visual Understanding
 
+- **[Image]** Grounded Chain-of-Thought for Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2503.12799)
+- **[Image]** DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding [[paper]](https://arxiv.org/abs/2503.12797) [[code]](https://github.com/thunlp/DeepPerception) [[KVG]](https://huggingface.co/datasets/MaxyLee/KVG) 
+- **[Image]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
 - **[Image]** Visual Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT) [[ViRFT]](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)
 - **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
 - **[Image]** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) [[code]](https://github.com/dvlab-research/Seg-Zero) [ [refCOCOg_2k_840]](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840)
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
+- **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
 - **[Omni]** R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) [[code]](https://github.com/HumanMLLM/R1-Omni)
 
 #### Visual Reasoning
 
+- Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models? [[paper]](https://arxiv.org/abs/2503.06252) [[code]](https://github.com/Quinn777/AtomThink)
 - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2503.10291) [[code]](https://huggingface.co/OpenGVLab/VisualPRM-8B)  [[VisualPRM400K]](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)
 - Kimi k1.5: Scaling Reinforcement Learning with LLMs [[paper]](https://arxiv.org/abs/2501.12599) 
 - R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[paper]](https://arxiv.org/pdf/2503.10615) [[code]](https://github.com/Fancy-MLLM/R1-Onevision) [[R1-Onevision Data]](https://huggingface.co/datasets/Fancy-MLLM/R1-Onevision) 
@@ -30,8 +40,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos [[paper]](https://arxiv.org/abs/2503.12542) [[code]](https://github.com/WPR001/Ego-ST) [[Ego-ST-bench]](https://huggingface.co/datasets/openinterx/Ego-ST-bench)
 - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [[paper]](https://arxiv.org/abs/2501.07542)
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
+- AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO [[paper]](https://arxiv.org/abs/2502.14669)
+- AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
 
 #### Medical
 
@@ -68,8 +81,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 ### Related Collections
 
 - [Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
+- [yaotingwangofficial/Awesome-MCoT](https://github.com/yaotingwangofficial/Awesome-MCoT)
 - [modelscope/awesome-deep-reasoning](https://github.com/modelscope/awesome-deep-reasoning)
 - [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
 - [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
-
 - [srush/awesome-o1](https://github.com/srush/awesome-o1)
