@@ -24,6 +24,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** CLS-RL: Image Classification with Rule-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.16188)
 - **[Image]** Grounded Chain-of-Thought for Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2503.12799)
 - **[Image]** VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[paper]](https://arxiv.org/abs/2503.07523) [[code]](https://github.com/zhangquanchen/VisRL)
 - **[Image]** DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding [[paper]](https://arxiv.org/abs/2503.12797) [[code]](https://github.com/thunlp/DeepPerception) [[KVG]](https://huggingface.co/datasets/MaxyLee/KVG) 
@@ -38,11 +39,13 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
 - **[Video]** CoS: Chain-of-Shot Prompting for Long Video Understanding [[paper]](https://arxiv.org/abs/2502.06428) [[code]](https://github.com/lwpyh/CoS_codes)
 - **[Video]** **[WWW2025]** Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning [[paper]](https://openreview.net/forum?id=lq2jDWv3w0#discussion) 
+- **[Video]** **[Understanding & Reasoning]** VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[paper]](https://arxiv.org/abs/2503.13444) [[code]](https://github.com/yeliudev/VideoMind)
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
 - **[Omni]** R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) [[code]](https://github.com/HumanMLLM/R1-Omni)
 
 #### Visual Reasoning
 
+- SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems  [[paper]](https://arxiv.org/abs/2503.10627) [[SciVerse](https://huggingface.co/datasets/ZiyuG/SciVerse)] [[LLaVA-NeXT-Interleave-Bench]](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Interleave-Bench)
 - R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2503.12937) [[code]](https://github.com/jingyi0000/R1-VL)
 - Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models? [[paper]](https://arxiv.org/abs/2503.06252) [[code]](https://github.com/Quinn777/AtomThink)
 - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2503.10291) [[code]](https://huggingface.co/OpenGVLab/VisualPRM-8B)  [[VisualPRM400K]](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)
