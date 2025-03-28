@@ -45,6 +45,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement [[Paper]](https://arxiv.org/abs/2503.17352) [[code]](https://github.com/yihedeng9/OpenVLThinker)
 - SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems  [[paper]](https://arxiv.org/abs/2503.10627) [[SciVerse](https://huggingface.co/datasets/ZiyuG/SciVerse)] [[LLaVA-NeXT-Interleave-Bench]](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Interleave-Bench)
 - R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2503.12937) [[code]](https://github.com/jingyi0000/R1-VL)
 - Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models? [[paper]](https://arxiv.org/abs/2503.06252) [[code]](https://github.com/Quinn777/AtomThink)
@@ -64,6 +65,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.18013) [[code]](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1)
 - ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos [[paper]](https://arxiv.org/abs/2503.12542) [[code]](https://github.com/WPR001/Ego-ST) [[Ego-ST-bench]](https://huggingface.co/datasets/openinterx/Ego-ST-bench)
 - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [[paper]](https://arxiv.org/abs/2501.07542)
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
