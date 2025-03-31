@@ -31,8 +31,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Image]** Visual Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT) [[ViRFT]](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)
 - **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
 - **[Image]** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) [[code]](https://github.com/dvlab-research/Seg-Zero) [ [refCOCOg_2k_840]](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840)
-- **[Image]** **[Understanding & Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
-- **[Image]** **[Understanding & Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
+- **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
+- **[Image]** **[&Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
@@ -45,6 +45,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[paper]](https://arxiv.org/abs/2503.19990)
+- Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[paper]](https://arxiv.org/abs/2503.20752)
 - OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement [[Paper]](https://arxiv.org/abs/2503.17352) [[code]](https://github.com/yihedeng9/OpenVLThinker)
 - SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems  [[paper]](https://arxiv.org/abs/2503.10627) [[SciVerse](https://huggingface.co/datasets/ZiyuG/SciVerse)] [[LLaVA-NeXT-Interleave-Bench]](https://huggingface.co/datasets/lmms-lab/LLaVA-NeXT-Interleave-Bench)
 - R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2503.12937) [[code]](https://github.com/jingyi0000/R1-VL)
@@ -65,6 +67,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper]](https://arxiv.org/abs/2503.21696) [[code]](https://github.com/zwq2018/embodied_reasoner) [[embodied_reasoner]](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.18013) [[code]](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1)
 - ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos [[paper]](https://arxiv.org/abs/2503.12542) [[code]](https://github.com/WPR001/Ego-ST) [[Ego-ST-bench]](https://huggingface.co/datasets/openinterx/Ego-ST-bench)
 - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [[paper]](https://arxiv.org/abs/2501.07542)
@@ -81,6 +84,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Audio
 
+- **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
 - R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
 - Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
 
