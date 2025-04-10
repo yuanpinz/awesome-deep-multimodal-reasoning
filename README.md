@@ -24,6 +24,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[paper]](https://arxiv.org/abs/2504.03724) [[code]](https://github.com/yeyimilk/CrowdVLM-R1)
+- **[Image]** Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [[Paper]](https://arxiv.org/abs/2504.02587) [[code]](https://github.com/GAIR-NLP/MAYE) [[Datasets]](https://huggingface.co/datasets/ManTle/MAYE)
+- **[Image]** Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.22679) [[code]](https://github.com/lwq20020127/Q-Insight)
 - **[Image]** CLS-RL: Image Classification with Rule-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.16188)
 - **[Image]** Grounded Chain-of-Thought for Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2503.12799)
 - **[Image]** VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[paper]](https://arxiv.org/abs/2503.07523) [[code]](https://github.com/zhangquanchen/VisRL)
@@ -34,17 +37,18 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
 - **[Image]** **[&Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
-- **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[code]](https://github.com/tulerfeng/Video-R1) 
+- **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[paper]](https://arxiv.org/pdf/2503.21776) [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 - **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
 - **[Video]** CoS: Chain-of-Shot Prompting for Long Video Understanding [[paper]](https://arxiv.org/abs/2502.06428) [[code]](https://github.com/lwpyh/CoS_codes)
 - **[Video]** **[WWW2025]** Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning [[paper]](https://openreview.net/forum?id=lq2jDWv3w0#discussion) 
-- **[Video]** **[Understanding & Reasoning]** VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[paper]](https://arxiv.org/abs/2503.13444) [[code]](https://github.com/yeliudev/VideoMind)
+- **[Video]** **[&Reasoning]** VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[paper]](https://arxiv.org/abs/2503.13444) [[code]](https://github.com/yeliudev/VideoMind)
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
 - **[Omni]** R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) [[code]](https://github.com/HumanMLLM/R1-Omni)
 
 #### Visual Reasoning
 
+- OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning [[paper]](https://arxiv.org/abs/2503.16081)
 - LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[paper]](https://arxiv.org/abs/2503.19990)
 - Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[paper]](https://arxiv.org/abs/2503.20752)
 - OpenVLThinker: An Early Exploration to Vision-Language Reasoning via Iterative Self-Improvement [[Paper]](https://arxiv.org/abs/2503.17352) [[code]](https://github.com/yihedeng9/OpenVLThinker)
@@ -77,6 +81,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2504.01886) [[code]](https://github.com/uni-medical/GMAI-VL-R1)
+- PharmAgents: Building a Virtual Pharma with Large Language Model Agents [[paper]](https://arxiv.org/abs/2503.22164)
 - Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2503.13939v2)
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
