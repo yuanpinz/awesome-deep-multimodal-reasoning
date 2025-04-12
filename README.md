@@ -24,6 +24,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [[paper]](https://arxiv.org/abs/2504.05682)
+- **[Image]** OmniCaptioner: One Captioner to Rule Them All [[paper]](https://arxiv.org/abs/2504.07089) [[code]](https://github.com/Alpha-Innovator/OmniCaptioner)
 - **[Image]** CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[paper]](https://arxiv.org/abs/2504.03724) [[code]](https://github.com/yeyimilk/CrowdVLM-R1)
 - **[Image]** Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme [[Paper]](https://arxiv.org/abs/2504.02587) [[code]](https://github.com/GAIR-NLP/MAYE) [[Datasets]](https://huggingface.co/datasets/ManTle/MAYE)
 - **[Image]** Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.22679) [[code]](https://github.com/lwq20020127/Q-Insight)
@@ -37,6 +39,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
 - **[Image]** **[&Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
+- **[Video]** VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2504.06958) [[code]](https://github.com/OpenGVLab/VideoChat-R1)
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[paper]](https://arxiv.org/pdf/2503.21776) [[code]](https://github.com/tulerfeng/Video-R1) 
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 - **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
@@ -102,6 +105,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12) [[Datasets]](https://github.com/LanceZPF/MDK12#-datasets) [[Leaderboard]](https://github.com/LanceZPF/MDK12#-leaderboard)
 - MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[paper]](https://arxiv.org/abs/2502.00698) [[code]](https://github.com/AceCHQ/MMIQ)
 - MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[paper]](https://arxiv.org/abs/2502.09621) [[code]](https://github.com/CaraJ7/MME-CoT)
 - ZeroBench: An Impossible* Visual Benchmark for Contemporary Large Multimodal Models [[paper]](https://arxiv.org/pdf/2502.09696) [[code]](https://github.com/jonathan-roberts1/zerobench/) 
