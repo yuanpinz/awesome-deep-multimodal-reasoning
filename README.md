@@ -24,6 +24,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.07954) [[code]](https://github.com/linkangheng/PR1)
 - **[Image]** On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [[paper]](https://arxiv.org/abs/2504.05682)
 - **[Image]** OmniCaptioner: One Captioner to Rule Them All [[paper]](https://arxiv.org/abs/2504.07089) [[code]](https://github.com/Alpha-Innovator/OmniCaptioner)
 - **[Image]** CrowdVLM-R1: Expanding R1 Ability to Vision Language Model for Crowd Counting using Fuzzy Group Relative Policy Reward [[paper]](https://arxiv.org/abs/2504.03724) [[code]](https://github.com/yeyimilk/CrowdVLM-R1)
@@ -34,9 +35,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Image]** VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[paper]](https://arxiv.org/abs/2503.07523) [[code]](https://github.com/zhangquanchen/VisRL)
 - **[Image]** DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding [[paper]](https://arxiv.org/abs/2503.12797) [[code]](https://github.com/thunlp/DeepPerception) [[KVG]](https://huggingface.co/datasets/MaxyLee/KVG) 
 - **[Image]** Visual Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2503.01785) [[code]](https://github.com/Liuziyu77/Visual-RFT) [[ViRFT]](https://huggingface.co/collections/laolao77/virft-datasets-67bc271b6f2833eccc0651df)
-- **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
+- **[Image]** VLM-R1: A stable and generalizable R1-style Large Vision-Language Model [[paper]](https://arxiv.org/abs/2504.07615) [[code]](https://github.com/om-ai-lab/VLM-R1) [[VLM-R1 Data]](https://huggingface.co/datasets/omlab/VLM-R1) 
 - **[Image]** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement [[paper]](https://arxiv.org/abs/2503.06520) [[code]](https://github.com/dvlab-research/Seg-Zero) [ [refCOCOg_2k_840]](https://huggingface.co/datasets/Ricky06662/refCOCOg_2k_840)
-- **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065)
+- **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065) [[code]](https://github.com/ding523/Curr_REFT) [[Curr-ReFT-data]](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)
 - **[Image]** **[&Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
 - **[Video]** VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2504.06958) [[code]](https://github.com/OpenGVLab/VideoChat-R1)
