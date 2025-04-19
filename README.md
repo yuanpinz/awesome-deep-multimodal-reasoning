@@ -53,10 +53,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055) [[code]](https://github.com/John-AI-Lab/NoisyRollout)
 - VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.08837) [[code]](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
-
 - TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[paper]](https://arxiv.org/abs/2504.09641) [[code]](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)
-
 - OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning [[paper]](https://arxiv.org/abs/2503.16081)
 - LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning? [[paper]](https://arxiv.org/abs/2503.19990)
 - Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning [[paper]](https://arxiv.org/abs/2503.20752)
@@ -107,6 +106,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[paper]](https://arxiv.org/abs/2504.11455)
 - GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
 - **[CVPR2025]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[paper]](https://arxiv.org/abs/2501.13926) [[code]](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 - **[ICLR2025]** Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation [[paper]](https://arxiv.org/abs/2410.10676) [[code]](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open)
