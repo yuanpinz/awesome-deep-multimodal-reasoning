@@ -24,6 +24,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection [[paper]](https://arxiv.org/abs/2504.12749)
+- **[Image]** AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[paper]](https://arxiv.org/abs/2504.11914)
+
 - **[Image]** Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.07954) [[code]](https://github.com/linkangheng/PR1)
 - **[Image]** On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [[paper]](https://arxiv.org/abs/2504.05682)
 - **[Image]** OmniCaptioner: One Captioner to Rule Them All [[paper]](https://arxiv.org/abs/2504.07089) [[code]](https://github.com/Alpha-Innovator/OmniCaptioner)
@@ -53,6 +56,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[paper]](https://arxiv.org/abs/2504.11468v1) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[VLAA-Thinking Dataset]](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)
 - NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055) [[code]](https://github.com/John-AI-Lab/NoisyRollout)
 - VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.08837) [[code]](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
 - TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning [[paper]](https://arxiv.org/abs/2504.09641) [[code]](https://github.com/ZhangXJ199/TinyLLaVA-Video-R1)
@@ -80,6 +84,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 #### Robotics/Spatial
 
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458)
+- Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.12680)
 - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper]](https://arxiv.org/abs/2503.21696) [[code]](https://github.com/zwq2018/embodied_reasoner) [[embodied_reasoner]](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.18013) [[code]](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1)
 - ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos [[paper]](https://arxiv.org/abs/2503.12542) [[code]](https://github.com/WPR001/Ego-ST) [[Ego-ST-bench]](https://huggingface.co/datasets/openinterx/Ego-ST-bench)
@@ -90,6 +95,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension [[paper]](https://arxiv.org/abs/2504.12314)
 - PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks [[paper]](https://arxiv.org/abs/2504.09258)
 - GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2504.01886) [[code]](https://github.com/uni-medical/GMAI-VL-R1)
 - PharmAgents: Building a Virtual Pharma with Large Language Model Agents [[paper]](https://arxiv.org/abs/2503.22164)
