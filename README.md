@@ -26,7 +26,6 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 - **[Image]** LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection [[paper]](https://arxiv.org/abs/2504.12749)
 - **[Image]** AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[paper]](https://arxiv.org/abs/2504.11914)
-
 - **[Image]** Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.07954) [[code]](https://github.com/linkangheng/PR1)
 - **[Image]** On the Suitability of Reinforcement Fine-Tuning to Visual Tasks [[paper]](https://arxiv.org/abs/2504.05682)
 - **[Image]** OmniCaptioner: One Captioner to Rule Them All [[paper]](https://arxiv.org/abs/2504.07089) [[code]](https://github.com/Alpha-Innovator/OmniCaptioner)
@@ -43,6 +42,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Image]** **[&Reasoning]** Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.07065) [[code]](https://github.com/ding523/Curr_REFT) [[Curr-ReFT-data]](https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data)
 - **[Image]** **[&Reasoning]** Improve Vision Language Model Chain-of-thought Reasoning [[paper]](https://arxiv.org/abs/2410.16198) [[code]](https://github.com/RifleZhang/LLaVA-Reasoner-DPO)
 - **[3D Object]** Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[code]](https://arxiv.org/abs/2503.06232) [[3D-CoT]](https://huggingface.co/datasets/Battam/3D-CoT)
+- **[Video]** Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization [[paper]](https://arxiv.org/abs/2504.13460)
 - **[Video]** FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos [[paper]](https://arxiv.org/abs/2504.10358)
 - **[Video]** VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2504.06958) [[code]](https://github.com/OpenGVLab/VideoChat-R1)
 - **[Video]** Video-R1: Towards Super Reasoning Ability in Video Understanding [[paper]](https://arxiv.org/pdf/2503.21776) [[code]](https://github.com/tulerfeng/Video-R1) 
@@ -56,7 +56,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
-- VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[paper]](https://arxiv.org/abs/2504.15279) [[Page]](https://visulogic-benchmark.github.io/VisuLogic/) [[Benchmark]](https://huggingface.co/datasets/VisuLogic/VisuLogic) [[Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) [[Train Data]](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train) [[Train Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)
+- VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[paper]](https://arxiv.org/abs/2504.15279) [[code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) [[Page]](https://visulogic-benchmark.github.io/VisuLogic/) [[Benchmark]](https://huggingface.co/datasets/VisuLogic/VisuLogic) [[Train Data]](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train) [[Train Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)
 - SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[paper]](https://arxiv.org/abs/2504.11468v1) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[VLAA-Thinking Dataset]](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)
 - NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055) [[code]](https://github.com/John-AI-Lab/NoisyRollout)
 - VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.08837) [[code]](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
@@ -84,7 +84,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
-- GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458)
+- **[Driving]** LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
+- GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 - Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.12680)
 - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper]](https://arxiv.org/abs/2503.21696) [[code]](https://github.com/zwq2018/embodied_reasoner) [[embodied_reasoner]](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.18013) [[code]](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1)
@@ -92,7 +93,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [[paper]](https://arxiv.org/abs/2501.07542)
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
 - AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO [[paper]](https://arxiv.org/abs/2502.14669)
-- AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
+- **[Driving]** AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
 
 #### Medical
 
