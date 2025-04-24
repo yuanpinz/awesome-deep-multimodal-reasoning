@@ -1,5 +1,5 @@
 # Awesome-deep-multimodal-reasoning
-Collect the awesome works evolved around reasoning models like O1/R1 in multimodal domain.
+Collect the awesome works evolved around reasoning models like O1/R1 in multimodal domain. Welcome to  submit pull requests to contribute if there are omissions in the list.
 
 > I distinguish between **Visual Understanding** and **Visual Reasoning** based on my personal interpretation - while an ideal model should possess both capabilities, different research efforts tend to emphasize one aspect over the other.
 >
