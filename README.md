@@ -97,7 +97,10 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining [[paper]](https://arxiv.org/abs/2504.15545) 
+- Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain [[paper]](https://arxiv.org/abs/2504.13950) [[code]](https://github.com/Qsingle/open-medical-r1)
 - How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension [[paper]](https://arxiv.org/abs/2504.12314)
+- Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery [[paper]](https://arxiv.org/abs/2503.23130)
 - PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks [[paper]](https://arxiv.org/abs/2504.09258)
 - GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2504.01886) [[code]](https://github.com/uni-medical/GMAI-VL-R1)
 - PharmAgents: Building a Virtual Pharma with Large Language Model Agents [[paper]](https://arxiv.org/abs/2503.22164)
@@ -108,12 +111,14 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Audio
 
+- SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15900)
 - **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
 - R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
 - Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
 
 #### Generation
 
+- Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15932)
 - SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[paper]](https://arxiv.org/abs/2504.11455)
 - GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
 - **[CVPR2025]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[paper]](https://arxiv.org/abs/2501.13926) [[code]](https://github.com/ZiyuGuo99/Image-Generation-CoT)
