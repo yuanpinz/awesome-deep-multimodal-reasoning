@@ -56,6 +56,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [[paper]](https://arxiv.org/abs/2504.16656v2) [[code]](https://github.com/SkyworkAI/Skywork-R1V) [[Skywork-R1V2-38B]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
 - VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[paper]](https://arxiv.org/abs/2504.15279) [[code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) [[Page]](https://visulogic-benchmark.github.io/VisuLogic/) [[Benchmark]](https://huggingface.co/datasets/VisuLogic/VisuLogic) [[Train Data]](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train) [[Train Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)
 - SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[paper]](https://arxiv.org/abs/2504.11468v1) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[VLAA-Thinking Dataset]](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)
 - NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055) [[code]](https://github.com/John-AI-Lab/NoisyRollout)
