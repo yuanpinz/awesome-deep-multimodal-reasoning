@@ -166,8 +166,6 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 ### Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=yuanpinz/awesome-deep-multimodal-reasoning&type=Date)](https://www.star-history.com/#yuanpinz/awesome-deep-multimodal-reasoning&Date)
 
 
