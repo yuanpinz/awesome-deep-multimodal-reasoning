@@ -18,6 +18,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 ### Surveys
 
+- Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2504.21277)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
 ### Papers/Projects
@@ -49,7 +50,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - **[Video]** Open R1 Video [[code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) [[open-r1-video-4k]](https://huggingface.co/datasets/Xiaodong/open-r1-video-4k)
 - **[Video]** TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[paper]](https://arxiv.org/abs/2503.13377) [[code]](https://github.com/www-Ye/TimeZero)
 - **[Video]** CoS: Chain-of-Shot Prompting for Long Video Understanding [[paper]](https://arxiv.org/abs/2502.06428) [[code]](https://github.com/lwpyh/CoS_codes)
-- **[Video]** **[WWW2025]** Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning [[paper]](https://openreview.net/forum?id=lq2jDWv3w0#discussion) 
+- **[Video]** **[WWW 2025]** Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning [[paper]](https://openreview.net/forum?id=lq2jDWv3w0#discussion) 
 - **[Video]** **[&Reasoning]** VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[paper]](https://arxiv.org/abs/2503.13444) [[code]](https://github.com/yeliudev/VideoMind)
 - **[Omni]** MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[paper]](https://arxiv.org/abs/2502.10391) [[code]](https://github.com/Kwai-YuanQi/MM-RLHF) [[MM-RLHF Data]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF) [[MM-RLHF-RewardBench]](https://huggingface.co/datasets/yifanzhang114/MM-RLHF-RewardBench)
 - **[Omni]** R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.05379) [[code]](https://github.com/HumanMLLM/R1-Omni)
@@ -58,7 +59,6 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 - Fast-Slow Thinking for Large Vision-Language Model Reasoning [[paper]](https://arxiv.org/abs/2504.18458)
 - Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [[paper]](https://arxiv.org/abs/2504.16656v2) [[code]](https://github.com/SkyworkAI/Skywork-R1V) [[Skywork-R1V2-38B]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
-- VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[paper]](https://arxiv.org/abs/2504.15279) [[code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) [[Page]](https://visulogic-benchmark.github.io/VisuLogic/) [[Benchmark]](https://huggingface.co/datasets/VisuLogic/VisuLogic) [[Train Data]](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train) [[Train Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)
 - SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[paper]](https://arxiv.org/abs/2504.11468v1) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[VLAA-Thinking Dataset]](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)
 - NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation [[paper]](https://arxiv.org/abs/2504.13055) [[code]](https://github.com/John-AI-Lab/NoisyRollout)
 - VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.08837) [[code]](https://github.com/TIGER-AI-Lab/VL-Rethinker/)
@@ -86,6 +86,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
 - **[Driving]** LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 - Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.12680)
@@ -99,6 +100,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
+- Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper]](https://arxiv.org/abs/2504.18453)
 - VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining [[paper]](https://arxiv.org/abs/2504.15545) 
 - Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain [[paper]](https://arxiv.org/abs/2504.13950) [[code]](https://github.com/Qsingle/open-medical-r1)
 - How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension [[paper]](https://arxiv.org/abs/2504.12314)
@@ -109,7 +112,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2503.13939v2)
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
-- **[EMNLP2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
+- **[EMNLP 2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
 
 #### Audio
 
@@ -120,14 +123,20 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
-- Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15932)
-- SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[paper]](https://arxiv.org/abs/2504.11455)
-- GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
-- **[CVPR2025]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[paper]](https://arxiv.org/abs/2501.13926) [[code]](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-- **[ICLR2025]** Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation [[paper]](https://arxiv.org/abs/2410.10676) [[code]](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open)
+- T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[paper]](https://arxiv.org/abs/2505.00703) [[code]](https://github.com/CaraJ7/T2I-R1)
+- **[Code]** AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers [[paper]](https://arxiv.org/abs/2504.20115) [[code]](https://github.com/shoushouyu/Automated-Paper-to-Code)
+- **[Video]** Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15932)
+- **[Image]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[paper]](https://arxiv.org/abs/2504.11455)
+- **[Image]** GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[paper]](https://arxiv.org/abs/2503.10639) [[code]](https://github.com/rongyaofang/GoT)
+- **[Image]** **[CVPR 2025]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[paper]](https://arxiv.org/abs/2501.13926) [[code]](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+- **[Audio]** **[ICLR 2025]** Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation [[paper]](https://arxiv.org/abs/2410.10676) [[code]](https://github.com/PeiwenSun2000/Both-Ears-Wide-Open)
 
 #### Benchmarks
 
+- VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos [[paper]](https://arxiv.org/abs/2505.01481) [[code]](https://github.com/zli12321/VideoHallu)
+- **[ICML 2025]** R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation [[paper]](https://arxiv.org/abs/2505.02018) [[project page]](https://evalmodels.github.io/rbench/)
+- GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling [[paper]](https://arxiv.org/abs/2505.00063)
+- VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models [[paper]](https://arxiv.org/abs/2504.15279) [[code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) [[Page]](https://visulogic-benchmark.github.io/VisuLogic/) [[Benchmark]](https://huggingface.co/datasets/VisuLogic/VisuLogic) [[Train Data]](https://huggingface.co/datasets/VisuLogic/VisuLogic-Train) [[Train Code]](https://github.com/VisuLogic-Benchmark/VisuLogic-Train)
 - MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2504.05782) [[code]](https://github.com/LanceZPF/MDK12) [[Datasets]](https://github.com/LanceZPF/MDK12#-datasets) [[Leaderboard]](https://github.com/LanceZPF/MDK12#-leaderboard)
 - MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[paper]](https://arxiv.org/abs/2502.00698) [[code]](https://github.com/AceCHQ/MMIQ)
 - MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency [[paper]](https://arxiv.org/abs/2502.09621) [[code]](https://github.com/CaraJ7/MME-CoT)
