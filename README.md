@@ -57,6 +57,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.03318) [[project page]](https://codegoat24.github.io/UnifiedReward/think)
+- R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.02835) [[code]](https://github.com/yfzhang114/r1_reward) [[Data]](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)
 - Fast-Slow Thinking for Large Vision-Language Model Reasoning [[paper]](https://arxiv.org/abs/2504.18458)
 - Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning [[paper]](https://arxiv.org/abs/2504.16656v2) [[code]](https://github.com/SkyworkAI/Skywork-R1V) [[Skywork-R1V2-38B]](https://huggingface.co/Skywork/Skywork-R1V2-38B)
 - SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models [[paper]](https://arxiv.org/abs/2504.11468v1) [[code]](https://github.com/UCSC-VLAA/VLAA-Thinking) [[VLAA-Thinking Dataset]](https://huggingface.co/datasets/UCSC-VLAA/VLAA-Thinking)
@@ -100,6 +102,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing [[paper]](https://arxiv.org/abs/2505.03621)
 - ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
 - Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper]](https://arxiv.org/abs/2504.18453)
 - VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining [[paper]](https://arxiv.org/abs/2504.15545) 
@@ -123,7 +126,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
-- T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[paper]](https://arxiv.org/abs/2505.00703) [[code]](https://github.com/CaraJ7/T2I-R1)
+- **[Traffic]** RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation [[paper]](https://arxiv.org/abs/2505.03344) [[project page]](https://currychen77.github.io/RIFT/)
+- **[Image]** T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[paper]](https://arxiv.org/abs/2505.00703) [[code]](https://github.com/CaraJ7/T2I-R1)
 - **[Code]** AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers [[paper]](https://arxiv.org/abs/2504.20115) [[code]](https://github.com/shoushouyu/Automated-Paper-to-Code)
 - **[Video]** Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15932)
 - **[Image]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[paper]](https://arxiv.org/abs/2504.11455)
