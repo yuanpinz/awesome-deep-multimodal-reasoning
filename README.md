@@ -57,6 +57,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- STOLA: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios [[paper]](https://arxiv.org/abs/2505.04201)
 - Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.03318) [[project page]](https://codegoat24.github.io/UnifiedReward/think)
 - R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.02835) [[code]](https://github.com/yfzhang114/r1_reward) [[Data]](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)
 - Fast-Slow Thinking for Large Vision-Language Model Reasoning [[paper]](https://arxiv.org/abs/2504.18458)
@@ -88,6 +89,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
 - SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
 - **[Driving]** LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
@@ -102,6 +104,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning [[paper]](https://arxiv.org/abs/2505.04192) [[code]](https://github.com/trinhvg/VideoPath-LLaVA)
 - PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing [[paper]](https://arxiv.org/abs/2505.03621)
 - ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
 - Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper]](https://arxiv.org/abs/2504.18453)
@@ -119,10 +122,15 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Audio
 
+- **[&Visual]** EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.04623) [[code]](https://github.com/HarryHsing/EchoInk) [[Dataset (AVQA-R1-6K)]](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)
 - SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15900)
 - **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
 - R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
 - Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
+
+#### Other Modalities
+
+- Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
 
 #### Generation
 
