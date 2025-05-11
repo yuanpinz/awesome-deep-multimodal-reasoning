@@ -18,6 +18,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 ### Surveys
 
+- Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models [[paper]](https://arxiv.org/abs/2505.04921) [[code]](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
 - Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2504.21277)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 
