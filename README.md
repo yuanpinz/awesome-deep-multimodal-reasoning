@@ -147,6 +147,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- On Path to Multimodal Generalist: General-Level and General-Bench [[paper]](https://arxiv.org/abs/2505.04620) [[project page]](https://generalist.top/)
 - VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos [[paper]](https://arxiv.org/abs/2505.01481) [[code]](https://github.com/zli12321/VideoHallu)
 - **[ICML 2025]** R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation [[paper]](https://arxiv.org/abs/2505.02018) [[project page]](https://evalmodels.github.io/rbench/)
 - GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling [[paper]](https://arxiv.org/abs/2505.00063)
