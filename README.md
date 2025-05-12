@@ -90,6 +90,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- **[Driving]** DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
 - RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
 - SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
 - **[Driving]** LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
