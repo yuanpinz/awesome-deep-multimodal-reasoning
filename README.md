@@ -58,6 +58,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning [[paper]](https://arxiv.org/pdf/2505.09118) [[code]](https://github.com/open_upon_acceptance)
+- Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput [[paper]](https://arxiv.org/abs/2505.09498)
+- OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.08617) [[code]](https://github.com/zhaochen0110/OpenThinkIMG)
 - STOLA: Self-Adaptive Touch-Language Framework with Tactile Commonsense Reasoning in Open-Ended Scenarios [[paper]](https://arxiv.org/abs/2505.04201)
 - Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.03318) [[project page]](https://codegoat24.github.io/UnifiedReward/think)
 - R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.02835) [[code]](https://github.com/yfzhang114/r1_reward) [[Data]](https://huggingface.co/datasets/yifanzhang114/R1-Reward-RL)
@@ -124,6 +127,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Audio
 
+- Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM? [[paper]](https://arxiv.org/abs/2505.09439)
+- WavReward: Spoken Dialogue Models With Generalist Reward Evaluators [[paper]](https://arxiv.org/abs/2505.09558) [[code]](https://github.com/jishengpeng/WavReward)
 - **[&Visual]** EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.04623) [[code]](https://github.com/HarryHsing/EchoInk) [[Dataset (AVQA-R1-6K)]](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)
 - SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15900)
 - **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
@@ -133,9 +138,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 #### Other Modalities
 
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
+- **[Remote Sensing]** MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing [[paper]](https://arxiv.org/abs/2505.07984)
 
 #### Generation
 
+- **[Image]** Flow-GRPO: Training Flow Matching Models via Online RL [[paper]](https://www.arxiv.org/abs/2505.05470) [[code]](https://github.com/yifan123/flow_grpo)
 - **[Traffic]** RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation [[paper]](https://arxiv.org/abs/2505.03344) [[project page]](https://currychen77.github.io/RIFT/)
 - **[Image]** T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[paper]](https://arxiv.org/abs/2505.00703) [[code]](https://github.com/CaraJ7/T2I-R1)
 - **[Code]** AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers [[paper]](https://arxiv.org/abs/2504.20115) [[code]](https://github.com/shoushouyu/Automated-Paper-to-Code)
@@ -147,6 +154,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models[[paper]](https://arxiv.org/abs/2505.08455) [[project page]](https://pritamsarkar.com/VCRBench/)
+- BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning [[paper]](https://arxiv.org/abs/2505.07889) [[code]](https://github.com/YuyangSunshine/bioprotocolbench)
+- **[Robotics]** Benchmarking Massively Parallelized Multi-Task Reinforcement Learning for Robotics Tasks [[paper]](https://openreview.net/pdf?id=z0MM0y20I2)
 - VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos [[paper]](https://arxiv.org/abs/2505.01481) [[code]](https://github.com/zli12321/VideoHallu)
 - **[ICML 2025]** R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation [[paper]](https://arxiv.org/abs/2505.02018) [[project page]](https://evalmodels.github.io/rbench/)
 - GDI-Bench: A Benchmark for General Document Intelligence with Vision and Reasoning Decoupling [[paper]](https://arxiv.org/abs/2505.00063)
