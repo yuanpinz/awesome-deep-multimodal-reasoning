@@ -93,11 +93,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
-- **[Driving]** DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
 - RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
 - SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
-- **[Driving]** LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
-- GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 - Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.12680)
 - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks [[paper]](https://arxiv.org/abs/2503.21696) [[code]](https://github.com/zwq2018/embodied_reasoner) [[embodied_reasoner]](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 - Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.18013) [[code]](https://github.com/jefferyZhan/Griffon/tree/master/Vision-R1)
@@ -105,7 +102,17 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - Imagine while Reasoning in Space: Multimodal Visualization-of-Thought [[paper]](https://arxiv.org/abs/2501.07542)
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
 - AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO [[paper]](https://arxiv.org/abs/2502.14669)
-- **[Driving]** AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
+
+#### Driving
+
+- DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
+- LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
+- AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
+
+#### GUI
+
+- UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.21620) [[code]](https://github.com/lll6gg/UI-R1)
+- GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 
 #### Medical
 
