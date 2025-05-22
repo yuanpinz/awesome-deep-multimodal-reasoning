@@ -58,6 +58,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Visual Planning: Let's Think Only with Images [[paper]](https://arxiv.org/abs/2505.11409) [[code]](https://github.com/yix8/VisualPlanning)
 - Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning [[paper]](https://arxiv.org/pdf/2505.09118) [[code]](https://github.com/open_upon_acceptance)
 - Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput [[paper]](https://arxiv.org/abs/2505.09498)
 - OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.08617) [[code]](https://github.com/zhaochen0110/OpenThinkIMG)
@@ -103,6 +104,16 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
 - AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO [[paper]](https://arxiv.org/abs/2502.14669)
 
+#### Audio
+
+- Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM? [[paper]](https://arxiv.org/abs/2505.09439)
+- WavReward: Spoken Dialogue Models With Generalist Reward Evaluators [[paper]](https://arxiv.org/abs/2505.09558) [[code]](https://github.com/jishengpeng/WavReward)
+- **[&Visual]** EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.04623) [[code]](https://github.com/HarryHsing/EchoInk) [[Dataset (AVQA-R1-6K)]](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)
+- SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15900)
+- **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
+- R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
+- Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
+
 #### Driving
 
 - DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
@@ -116,6 +127,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[paper]](https://www.arxiv.org/abs/2505.11404)
 - VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning [[paper]](https://arxiv.org/abs/2505.04192) [[code]](https://github.com/trinhvg/VideoPath-LLaVA)
 - PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing [[paper]](https://arxiv.org/abs/2505.03621)
 - ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
@@ -131,16 +143,6 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
 - HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
 - **[EMNLP 2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
-
-#### Audio
-
-- Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM? [[paper]](https://arxiv.org/abs/2505.09439)
-- WavReward: Spoken Dialogue Models With Generalist Reward Evaluators [[paper]](https://arxiv.org/abs/2505.09558) [[code]](https://github.com/jishengpeng/WavReward)
-- **[&Visual]** EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.04623) [[code]](https://github.com/HarryHsing/EchoInk) [[Dataset (AVQA-R1-6K)]](https://huggingface.co/datasets/harryhsing/OmniInstruct_V1_AVQA_R1)
-- SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.15900)
-- **[&Generation]** Analyzable Chain-of-Musical-Thought Prompting for High-Fidelity Music Generation [[paper]](https://arxiv.org/abs/2503.19611)
-- R1-AQA --- Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[paper]](https://arxiv.org/abs/2503.11197) [[code]](https://github.com/xiaomi-research/r1-aqa)
-- Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models [[paper]](https://arxiv.org/abs/2503.02318) [[code]](https://github.com/xzf-thu/Audio-Reasoner)
 
 #### Other Modalities
 
@@ -161,6 +163,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans [[paper]](https://www.arxiv.org/abs/2505.11141) [[project page]](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)
 - VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models[[paper]](https://arxiv.org/abs/2505.08455) [[project page]](https://pritamsarkar.com/VCRBench/)
 - BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning [[paper]](https://arxiv.org/abs/2505.07889) [[code]](https://github.com/YuyangSunshine/bioprotocolbench)
 - **[Robotics]** Benchmarking Massively Parallelized Multi-Task Reinforcement Learning for Robotics Tasks [[paper]](https://openreview.net/pdf?id=z0MM0y20I2)
