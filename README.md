@@ -58,6 +58,14 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models [[paper]](https://arxiv.org/abs/2505.14481)
+- Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14677)
+- VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.12081) [[code]](https://github.com/dvlab-research/VisionReasoner)
+- UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14231) [[project page]](https://amap-ml.github.io/UniVG-R1-page/)
+- MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision [[paper]](https://arxiv.org/abs/2505.13427) [[code]](https://github.com/ModalMinds/MM-PRM)
+
+- MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO [[paper]](https://arxiv.org/abs/2505.13031) [[code]](https://github.com/EasonXiao-888/MindOmni)
+- Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method [[paper]](https://arxiv.org/abs/2505.14197)
 - Visual Planning: Let's Think Only with Images [[paper]](https://arxiv.org/abs/2505.11409) [[code]](https://github.com/yix8/VisualPlanning)
 - Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning [[paper]](https://arxiv.org/pdf/2505.09118) [[code]](https://github.com/open_upon_acceptance)
 - Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput [[paper]](https://arxiv.org/abs/2505.09498)
@@ -104,6 +112,31 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse [[code]](https://github.com/PzySeere/MetaSpatial)
 - AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO [[paper]](https://arxiv.org/abs/2502.14669)
 
+#### Medical
+
+- Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models [[paper]](https://arxiv.org/abs/2505.13973)
+- Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[paper]](https://www.arxiv.org/abs/2505.11404)
+- VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning [[paper]](https://arxiv.org/abs/2505.04192) [[code]](https://github.com/trinhvg/VideoPath-LLaVA)
+- PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing [[paper]](https://arxiv.org/abs/2505.03621)
+- ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
+- Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper]](https://arxiv.org/abs/2504.18453)
+- VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining [[paper]](https://arxiv.org/abs/2504.15545) 
+- Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain [[paper]](https://arxiv.org/abs/2504.13950) [[code]](https://github.com/Qsingle/open-medical-r1)
+- How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension [[paper]](https://arxiv.org/abs/2504.12314)
+- Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery [[paper]](https://arxiv.org/abs/2503.23130)
+- PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks [[paper]](https://arxiv.org/abs/2504.09258)
+- GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2504.01886) [[code]](https://github.com/uni-medical/GMAI-VL-R1)
+- PharmAgents: Building a Virtual Pharma with Large Language Model Agents [[paper]](https://arxiv.org/abs/2503.22164)
+- Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2503.13939v2)
+- MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
+- HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
+- **[EMNLP 2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
+
+#### Remote Sensing
+
+- TinyRS-R1: Compact Multimodal Language Model for Remote Sensing [[paper]](https://arxiv.org/abs/2505.12099)
+- MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing [[paper]](https://arxiv.org/abs/2505.07984)
+
 #### Audio
 
 - Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM? [[paper]](https://arxiv.org/abs/2505.09439)
@@ -125,29 +158,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 - UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.21620) [[code]](https://github.com/lll6gg/UI-R1)
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 
-#### Medical
-
-- Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[paper]](https://www.arxiv.org/abs/2505.11404)
-- VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning [[paper]](https://arxiv.org/abs/2505.04192) [[code]](https://github.com/trinhvg/VideoPath-LLaVA)
-- PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing [[paper]](https://arxiv.org/abs/2505.03621)
-- ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification [[paper]](https://arxiv.org/abs/2504.20930)
-- Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation [[paper]](https://arxiv.org/abs/2504.18453)
-- VLM-based Prompts as the Optimal Assistant for Unpaired Histopathology Virtual Staining [[paper]](https://arxiv.org/abs/2504.15545) 
-- Open-Medical-R1: How to Choose Data for RLVR Training at Medicine Domain [[paper]](https://arxiv.org/abs/2504.13950) [[code]](https://github.com/Qsingle/open-medical-r1)
-- How to Detect and Defeat Molecular Mirage: A Metric-Driven Benchmark for Hallucination in LLM-based Molecular Comprehension [[paper]](https://arxiv.org/abs/2504.12314)
-- Can DeepSeek Reason Like a Surgeon? An Empirical Evaluation for Vision-Language Understanding in Robotic-Assisted Surgery [[paper]](https://arxiv.org/abs/2503.23130)
-- PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks [[paper]](https://arxiv.org/abs/2504.09258)
-- GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2504.01886) [[code]](https://github.com/uni-medical/GMAI-VL-R1)
-- PharmAgents: Building a Virtual Pharma with Large Language Model Agents [[paper]](https://arxiv.org/abs/2503.22164)
-- Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2503.13939v2)
-- MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning [[paper]](https://arxiv.org/abs/2502.19634v1)
-- HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs [[paper]](https://arxiv.org/abs/2412.18925) [[code]](https://github.com/FreedomIntelligence/HuatuoGPT-o1) [[medical-o1-reasoning-SFT]](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT)
-- **[EMNLP 2024]** MedCoT: Medical Chain of Thought via Hierarchical Expert [[paper]](https://aclanthology.org/2024.emnlp-main.962/) [[code]](https://github.com/JXLiu-AI/MedCoT)
-
 #### Other Modalities
 
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
-- **[Remote Sensing]** MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing [[paper]](https://arxiv.org/abs/2505.07984)
 
 #### Generation
 
