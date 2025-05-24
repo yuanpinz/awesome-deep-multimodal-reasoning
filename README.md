@@ -102,6 +102,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[paper]](https://arxiv.org/abs/2505.15660) [[project page]](https://jiaming-zhou.github.io/AGNOSTOS/)
 - RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
 - SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
 - Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.12680)
@@ -149,12 +150,15 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Driving
 
+- AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15298)
+- HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15793)
 - DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
 - LangCoop: Collaborative Driving with Language [[paper]](https://arxiv.org/abs/2504.13406) 
 - AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning [[paper]](https://arxiv.org/abs/2503.07608) [[code]](https://github.com/hustvl/AlphaDrive)
 
 #### GUI
 
+- GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [[paper]](https://arxiv.org/abs/2505.15810)
 - UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.21620) [[code]](https://github.com/lll6gg/UI-R1)
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 
@@ -176,6 +180,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models [[paper]](https://arxiv.org/abs/2505.15616) [[code]](https://github.com/Lens4MLLMs/lens)
 - Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans [[paper]](https://www.arxiv.org/abs/2505.11141) [[project page]](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)
 - VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models[[paper]](https://arxiv.org/abs/2505.08455) [[project page]](https://pritamsarkar.com/VCRBench/)
 - BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning [[paper]](https://arxiv.org/abs/2505.07889) [[code]](https://github.com/YuyangSunshine/bioprotocolbench)
