@@ -26,6 +26,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning [[paper]](https://arxiv.org/abs/2505.16974v1) [[code]](https://github.com/Hanzy1996/OpenSeg-R)
 - **[Image]** LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection [[paper]](https://arxiv.org/abs/2504.12749)
 - **[Image]** AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[paper]](https://arxiv.org/abs/2504.11914)
 - **[Image]** Perception-R1: Pioneering Perception Policy with Reinforcement Learning [[paper]](https://arxiv.org/abs/2504.07954) [[code]](https://github.com/linkangheng/PR1)
@@ -58,12 +59,17 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14362v1) [[project page]](https://visual-agent.github.io/)
+- Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.15966) [[project page]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
+- Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[paper]](https://arxiv.org/abs/2505.16854) [[code]](https://github.com/kokolerk/TON)
+- GRIT: Teaching MLLMs to Think with Images [[paper]](https://arxiv.org/abs/2505.15879) [[project page]](https://grounded-reasoning.github.io/)
+- R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO [[paper]](https://arxiv.org/abs/2505.16673) [[code]](https://github.com/HJYao00/R1-ShareVL)
+- SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward [[paper]](https://arxiv.org/abs/2505.17018) [[code]](https://github.com/kxfan2002/SophiaVL-R1)
 - PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models [[paper]](https://arxiv.org/abs/2505.14481)
 - Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14677)
 - VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.12081) [[code]](https://github.com/dvlab-research/VisionReasoner)
 - UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14231) [[project page]](https://amap-ml.github.io/UniVG-R1-page/)
 - MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision [[paper]](https://arxiv.org/abs/2505.13427) [[code]](https://github.com/ModalMinds/MM-PRM)
-
 - MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO [[paper]](https://arxiv.org/abs/2505.13031) [[code]](https://github.com/EasonXiao-888/MindOmni)
 - Towards Omnidirectional Reasoning with 360-R1: A Dataset, Benchmark, and GRPO-based Method [[paper]](https://arxiv.org/abs/2505.14197)
 - Visual Planning: Let's Think Only with Images [[paper]](https://arxiv.org/abs/2505.11409) [[code]](https://github.com/yix8/VisualPlanning)
@@ -168,6 +174,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Image]** GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17022) [[code]](https://github.com/gogoduan/GoT-R1)
 - **[Image]** Flow-GRPO: Training Flow Matching Models via Online RL [[paper]](https://www.arxiv.org/abs/2505.05470) [[code]](https://github.com/yifan123/flow_grpo)
 - **[Traffic]** RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation [[paper]](https://arxiv.org/abs/2505.03344) [[project page]](https://currychen77.github.io/RIFT/)
 - **[Image]** T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[paper]](https://arxiv.org/abs/2505.00703) [[code]](https://github.com/CaraJ7/T2I-R1)
