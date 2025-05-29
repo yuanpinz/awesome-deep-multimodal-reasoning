@@ -59,6 +59,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations [[paper]](https://arxiv.org/abs/2505.17136)
 - DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14362v1) [[project page]](https://visual-agent.github.io/)
 - Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.15966) [[project page]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
 - Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[paper]](https://arxiv.org/abs/2505.16854) [[code]](https://github.com/kokolerk/TON)
@@ -121,6 +122,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling [[paper]](https://arxiv.org/abs/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
 - Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models [[paper]](https://arxiv.org/abs/2505.13973)
 - Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[paper]](https://www.arxiv.org/abs/2505.11404)
 - VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning [[paper]](https://arxiv.org/abs/2505.04192) [[code]](https://github.com/trinhvg/VideoPath-LLaVA)
@@ -156,6 +158,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Driving
 
+- Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling [[paper]](https://arxiv.org/abs/2505.17659)
 - AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15298)
 - HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15793)
 - DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning [[paper]](https://arxiv.org/abs/2505.05360) [[demo]](https://www.youtube.com/watch?v=op8PzQurugY)
@@ -174,6 +177,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Image]** RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17540) [[code]](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)
+- **[Video]** InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO [[paper]](https://arxiv.org/abs/2505.17574) [[code]](https://github.com/MAPLE-AIGC/InfLVG)
+- **[Image]** Co-Reinforcement Learning for Unified Multimodal Understanding and Generation [[paper]](https://arxiv.org/abs/2505.17534)
 - **[Image]** GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17022) [[code]](https://github.com/gogoduan/GoT-R1)
 - **[Image]** Flow-GRPO: Training Flow Matching Models via Online RL [[paper]](https://www.arxiv.org/abs/2505.05470) [[code]](https://github.com/yifan123/flow_grpo)
 - **[Traffic]** RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation [[paper]](https://arxiv.org/abs/2505.03344) [[project page]](https://currychen77.github.io/RIFT/)
@@ -187,6 +193,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning [[paper]](https://arxiv.org/abs/2505.17163) [[code]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
 - LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models [[paper]](https://arxiv.org/abs/2505.15616) [[code]](https://github.com/Lens4MLLMs/lens)
 - Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans [[paper]](https://www.arxiv.org/abs/2505.11141) [[project page]](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)
 - VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models[[paper]](https://arxiv.org/abs/2505.08455) [[project page]](https://pritamsarkar.com/VCRBench/)
