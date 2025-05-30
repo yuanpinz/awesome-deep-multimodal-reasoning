@@ -26,6 +26,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** ACTIVE-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO [[paper]](https://arxiv.org/abs/2505.21457) [[code]](https://github.com/aim-uofa/Active-o3)
+- **[Image]** SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards [[paper]](https://arxiv.org/abs/2505.19094) [[code]](https://github.com/justairr/SATORI-R1)
+- **[Image]** Align and Surpass Human Camouflaged Perception: Visual Refocus Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.19611)
 - **[Image]** OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning [[paper]](https://arxiv.org/abs/2505.16974v1) [[code]](https://github.com/Hanzy1996/OpenSeg-R)
 - **[Image]** LAD-Reasoner: Tiny Multimodal Models are Good Reasoners for Logical Anomaly Detection [[paper]](https://arxiv.org/abs/2504.12749)
 - **[Image]** AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[paper]](https://arxiv.org/abs/2504.11914)
@@ -59,6 +62,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- TACO: Think-Answer Consistency for Optimized Long-Chain Reasoning and Efficient Data Learning via Reinforcement Learning in LVLMs [[paper]](https://arxiv.org/abs/2505.20777)
+- VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization [[paper]](https://arxiv.org/abs/2505.19000) [[code]](https://github.com/HITsz-TMG/VerIPO)
 - Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations [[paper]](https://arxiv.org/abs/2505.17136)
 - DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.14362v1) [[project page]](https://visual-agent.github.io/)
 - Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.15966) [[project page]](https://tiger-ai-lab.github.io/Pixel-Reasoner/)
@@ -177,6 +182,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Image]** Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment [[paper]](https://arxiv.org/abs/2505.18600) [[project page]](https://bryanswkim.github.io/chain-of-zoom/)
 - **[Image]** RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17540) [[code]](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)
 - **[Video]** InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO [[paper]](https://arxiv.org/abs/2505.17574) [[code]](https://github.com/MAPLE-AIGC/InfLVG)
 - **[Image]** Co-Reinforcement Learning for Unified Multimodal Understanding and Generation [[paper]](https://arxiv.org/abs/2505.17534)
