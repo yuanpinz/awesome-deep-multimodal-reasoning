@@ -26,6 +26,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.23380) [[code]](https://github.com/showlab/UniRL)
+- **[Image]** DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes [[paper]](https://arxiv.org/abs/2505.23179)
+- **[Image]** VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
+- **[Image]** SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.22596)
+- **[Image]** OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning [[paper]](https://arxiv.org/abs/2505.22039)
 - **[Image]** ACTIVE-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO [[paper]](https://arxiv.org/abs/2505.21457) [[code]](https://github.com/aim-uofa/Active-o3)
 - **[Image]** SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards [[paper]](https://arxiv.org/abs/2505.19094) [[code]](https://github.com/justairr/SATORI-R1)
 - **[Image]** Align and Surpass Human Camouflaged Perception: Visual Refocus Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.19611)
@@ -62,6 +67,14 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.16965v2) [[code]](https://github.com/Derekkk/Praxis-VLM)
+- Grounded Reinforcement Learning for Visual Reasoning [[paper]](http://arxiv.org/abs/2505.23678) [[project page]](https://visually-grounded-rl.github.io/)
+- PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning [[paper]](https://arxiv.org/abs/2505.23727)
+- Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information [[paper]](https://arxiv.org/abs/2505.23558) [[code]](https://github.com/Liar406/Look_Again)
+- Fostering Video Reasoning via Next-Event Prediction [[paper]](https://arxiv.org/pdf/2505.22457) [[code]](https://github.com/sail-sg/Video-Next-Event-Prediction)
+- Sherlock: Self-Correcting Reasoning in Vision-Language Models [[paper]](https://arxiv.org/abs/2505.22651) [[project page]](https://dripnowhy.github.io/Sherlock/)
+- Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start [[paper]](https://arxiv.org/abs/2505.22334) [[code]](https://github.com/waltonfuture/RL-with-Cold-Start)
+- Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO [[paper]](https://arxiv.org/abs/2505.22453) [[code]](https://github.com/waltonfuture/MM-UPT)
 - TACO: Think-Answer Consistency for Optimized Long-Chain Reasoning and Efficient Data Learning via Reinforcement Learning in LVLMs [[paper]](https://arxiv.org/abs/2505.20777)
 - VerIPO: Cultivating Long Reasoning in Video-LLMs via Verifier-Gudied Iterative Policy Optimization [[paper]](https://arxiv.org/abs/2505.19000) [[code]](https://github.com/HITsz-TMG/VerIPO)
 - Foundation Models for Geospatial Reasoning: Assessing Capabilities of Large Language Models in Understanding Geometries and Topological Spatial Relations [[paper]](https://arxiv.org/abs/2505.17136)
@@ -182,6 +195,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Video]** Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [[paper]](https://arxiv.org/abs/2505.21653) [[project page]](https://bwgzk-keke.github.io/DiffPhy/)
 - **[Image]** Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment [[paper]](https://arxiv.org/abs/2505.18600) [[project page]](https://bryanswkim.github.io/chain-of-zoom/)
 - **[Image]** RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17540) [[code]](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)
 - **[Video]** InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO [[paper]](https://arxiv.org/abs/2505.17574) [[code]](https://github.com/MAPLE-AIGC/InfLVG)
@@ -199,6 +213,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- **[Medical]** Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs [[paper]](https://arxiv.org/abs/2505.23265)
+- **[Medical]** ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room [[paper]](https://arxiv.org/abs/2505.22919) [[code]](https://github.com/AlaaLab/ER-Reason)
 - OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning [[paper]](https://arxiv.org/abs/2505.17163) [[code]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
 - LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models [[paper]](https://arxiv.org/abs/2505.15616) [[code]](https://github.com/Lens4MLLMs/lens)
 - Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans [[paper]](https://www.arxiv.org/abs/2505.11141) [[project page]](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)
