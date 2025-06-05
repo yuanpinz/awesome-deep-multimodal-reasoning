@@ -26,6 +26,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models [[paper]](https://arxiv.org/abs/2505.24025) [[code]](https://christinepan881.github.io/DINO-R1/)
 - **[Image]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.23380) [[code]](https://github.com/showlab/UniRL)
 - **[Image]** DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes [[paper]](https://arxiv.org/abs/2505.23179)
 - **[Image]** VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2505.23504) [[code]](https://github.com/GVCLab/VAU-R1)
@@ -67,6 +68,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2505.24164) [[code]](https://github.com/xushilin1/mixed-r1)
+- ProxyThinker: Test-Time Guidance through Small Visual Reasoners [[paper]](https://arxiv.org/abs/2505.24872) [[code]](https://github.com/MrZilinXiao/ProxyThinker)
+- MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.24871) [[project page]](https://modomodo-rl.github.io/)
+- Reinforcing Video Reasoning with Focused Thinking [[paper]](https://arxiv.org/abs/2505.24718) [[code]](https://github.com/longmalongma/TW-GRPO)
+- Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.04207)
 - Praxis-VLM: Vision-Grounded Decision Making via Text-Driven Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.16965v2) [[code]](https://github.com/Derekkk/Praxis-VLM)
 - Grounded Reinforcement Learning for Visual Reasoning [[paper]](http://arxiv.org/abs/2505.23678) [[project page]](https://visually-grounded-rl.github.io/)
 - PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning [[paper]](https://arxiv.org/abs/2505.23727)
@@ -195,6 +201,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]](https://arxiv.org/abs/2505.24499)
+- **[Image]** ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL [[paper]](https://arxiv.org/abs/2505.24875) [[project page]](https://aka.ms/reasongen)
 - **[Video]** Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [[paper]](https://arxiv.org/abs/2505.21653) [[project page]](https://bwgzk-keke.github.io/DiffPhy/)
 - **[Image]** Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment [[paper]](https://arxiv.org/abs/2505.18600) [[project page]](https://bryanswkim.github.io/chain-of-zoom/)
 - **[Image]** RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.17540) [[code]](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)
@@ -213,6 +221,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- **[Medical]** DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis? [[paper]](https://arxiv.org/abs/2505.24173) [[code]](https://github.com/Jerry-Boss/DrVD-Bench)
 - **[Medical]** Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs [[paper]](https://arxiv.org/abs/2505.23265)
 - **[Medical]** ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room [[paper]](https://arxiv.org/abs/2505.22919) [[code]](https://github.com/AlaaLab/ER-Reason)
 - OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning [[paper]](https://arxiv.org/abs/2505.17163) [[code]](https://github.com/SCUT-DLVCLab/OCR-Reasoning)
