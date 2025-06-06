@@ -68,6 +68,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning [[paper]](https://arxiv.org/abs/2506.02537) [[code]](https://github.com/yh-hust/VisuRiddles)
 - Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2505.24164) [[code]](https://github.com/xushilin1/mixed-r1)
 - ProxyThinker: Test-Time Guidance through Small Visual Reasoners [[paper]](https://arxiv.org/abs/2505.24872) [[code]](https://github.com/MrZilinXiao/ProxyThinker)
 - MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.24871) [[project page]](https://modomodo-rl.github.io/)
@@ -133,6 +134,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper]](https://arxiv.org/abs/2506.00070)
 - Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[paper]](https://arxiv.org/abs/2505.15660) [[project page]](https://jiaming-zhou.github.io/AGNOSTOS/)
 - RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
 - SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning [[paper]](https://arxiv.org/abs/2504.20024) [[project page]](https://spatial-reasoner.github.io/)
@@ -146,6 +148,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [[paper]](https://arxiv.org/abs/2506.00711)
 - Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling [[paper]](https://arxiv.org/abs/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
 - Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models [[paper]](https://arxiv.org/abs/2505.13973)
 - Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[paper]](https://www.arxiv.org/abs/2505.11404)
