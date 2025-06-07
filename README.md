@@ -148,6 +148,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2506.00555)
 - QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [[paper]](https://arxiv.org/abs/2506.00711)
 - Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling [[paper]](https://arxiv.org/abs/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
 - Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models [[paper]](https://arxiv.org/abs/2505.13973)
