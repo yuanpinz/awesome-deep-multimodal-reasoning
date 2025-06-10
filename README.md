@@ -26,6 +26,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning [[paper]](https://arxiv.org/abs/2506.04034) [[code]](https://github.com/IDEA-Research/Rex-Thinker)
 - **[Image]** DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models [[paper]](https://arxiv.org/abs/2505.24025) [[code]](https://christinepan881.github.io/DINO-R1/)
 - **[Image]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.23380) [[code]](https://github.com/showlab/UniRL)
 - **[Image]** DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes [[paper]](https://arxiv.org/abs/2505.23179)
@@ -68,6 +69,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning [[paper]](https://arxiv.org/abs/2506.04559) [[code]](https://github.com/gyhdog99/RACRO2/)
+- Seeing the Arrow of Time in Large Multimodal Models [[paper]](https://arxiv.org/abs/2506.03340)
+- Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.04207) [[code]](https://github.com/CSfufu/Revisual-R1)
 - VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning [[paper]](https://arxiv.org/abs/2506.02537) [[code]](https://github.com/yh-hust/VisuRiddles)
 - Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2505.24164) [[code]](https://github.com/xushilin1/mixed-r1)
 - ProxyThinker: Test-Time Guidance through Small Visual Reasoners [[paper]](https://arxiv.org/abs/2505.24872) [[code]](https://github.com/MrZilinXiao/ProxyThinker)
@@ -134,6 +138,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning [[paper]](https://arxiv.org/abs/2506.05341) [[project page]](https://directlayout.github.io/)
 - Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper]](https://arxiv.org/abs/2506.00070)
 - Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[paper]](https://arxiv.org/abs/2505.15660) [[project page]](https://jiaming-zhou.github.io/AGNOSTOS/)
 - RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.03238)
@@ -195,17 +200,19 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### GUI
 
+- Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation [[paper]](https://arxiv.org/abs/2506.04614) [[code]](https://github.com/X-PLUG/MobileAgent/tree/main/GUI-Critic-R1)
 - GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [[paper]](https://arxiv.org/abs/2505.15810)
 - UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.21620) [[code]](https://github.com/lll6gg/UI-R1)
 - GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents [[paper]](https://arxiv.org/abs/2504.10458) [[code]](https://github.com/taco-group/LangCoop)
 
 #### Other Modalities
 
+- **[Tabular]** Multimodal Tabular Reasoning with Privileged Structured Information [[paper]](https://arxiv.org/abs/2506.04088)
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
 
 #### Generation
 
-- **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]](https://arxiv.org/abs/2505.24499)
+- **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]()](https://arxiv.org/abs/2505.24499)
 - **[Image]** ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL [[paper]](https://arxiv.org/abs/2505.24875) [[project page]](https://aka.ms/reasongen)
 - **[Video]** Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [[paper]](https://arxiv.org/abs/2505.21653) [[project page]](https://bwgzk-keke.github.io/DiffPhy/)
 - **[Image]** Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment [[paper]](https://arxiv.org/abs/2505.18600) [[project page]](https://bryanswkim.github.io/chain-of-zoom/)
@@ -225,6 +232,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs [[paper]](https://arxiv.org/abs/2506.05328) [[project page]](https://av-reasoner.github.io/)
+- **[Video]** MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos [[paper]](https://arxiv.org/abs/2506.04141) [[project page]](https://mmr-v.github.io/)
 - **[Medical]** DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis? [[paper]](https://arxiv.org/abs/2505.24173) [[code]](https://github.com/Jerry-Boss/DrVD-Bench)
 - **[Medical]** Image Aesthetic Reasoning: A New Benchmark for Medical Image Screening with MLLMs [[paper]](https://arxiv.org/abs/2505.23265)
 - **[Medical]** ER-REASON: A Benchmark Dataset for LLM-Based Clinical Reasoning in the Emergency Room [[paper]](https://arxiv.org/abs/2505.22919) [[code]](https://github.com/AlaaLab/ER-Reason)
