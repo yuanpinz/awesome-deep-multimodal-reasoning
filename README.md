@@ -69,6 +69,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning [[paper]](https://arxiv.org/abs/2506.06856)
+- GeometryZero: Improving Geometry Solving for LLM with Group Contrastive Policy Optimization [[paper]](https://arxiv.org/abs/2506.07160)
+- DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO [[paper]](https://arxiv.org/abs/2506.07464) [[code]](https://github.com/mlvlab/DeepVideoR1)
 - Perceptual Decoupling for Scalable Multi-modal Reasoning via Reward-Optimized Captioning [[paper]](https://arxiv.org/abs/2506.04559) [[code]](https://github.com/gyhdog99/RACRO2/)
 - Seeing the Arrow of Time in Large Multimodal Models [[paper]](https://arxiv.org/abs/2506.03340)
 - Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.04207) [[code]](https://github.com/CSfufu/Revisual-R1)
@@ -153,6 +156,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- RARL: Improving Medical VLM Reasoning and Generalization with Reinforcement Learning and LoRA under Data and Hardware Constraints [[paper]](https://arxiv.org/abs/2506.06600) [[code]](https://github.com/Hanhpt23/MedicalImagingReasoning)
 - MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2506.00555)
 - QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [[paper]](https://arxiv.org/abs/2506.00711)
 - Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling [[paper]](https://arxiv.org/abs/2505.17982) [[code]](https://github.com/bryanwong17/HiVE-MIL)
@@ -200,6 +204,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### GUI
 
+- GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior [[paper]](https://arxiv.org/abs/2506.08012) [[code]](https://penghao-wu.github.io/GUI_Reflection/)
 - Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation [[paper]](https://arxiv.org/abs/2506.04614) [[code]](https://github.com/X-PLUG/MobileAgent/tree/main/GUI-Critic-R1)
 - GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [[paper]](https://arxiv.org/abs/2505.15810)
 - UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning [[paper]](https://arxiv.org/abs/2503.21620) [[code]](https://github.com/lll6gg/UI-R1)
