@@ -69,6 +69,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning [[paper]](https://arxiv.org/abs/2506.09736) [[code]](https://github.com/YutingLi0606/Vision-Matters)
+- ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs [[paper]](https://arxiv.org/abs/2506.10128) [[code]](https://github.com/si0wang/ViCrit)
+- Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining [[paper]](https://arxiv.org/abs/2506.08022)
 - Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning [[paper]](https://arxiv.org/abs/2506.06856)
 - GeometryZero: Improving Geometry Solving for LLM with Group Contrastive Policy Optimization [[paper]](https://arxiv.org/abs/2506.07160)
 - DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO [[paper]](https://arxiv.org/abs/2506.07464) [[code]](https://github.com/mlvlab/DeepVideoR1)
@@ -141,6 +144,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- EQA-RM: A Generative Embodied Reward Model with Test-time Scaling [[paper]](https://arxiv.org/abs/2506.10389) [[code]](https://github.com/UNITES-Lab/EQA-RM)
+- VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.09049) [[project page]](https://faceong.github.io/VIKI-R/)
+- TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2506.08440) [[code]](https://github.com/hahans/TGRPO)
 - Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning [[paper]](https://arxiv.org/abs/2506.05341) [[project page]](https://directlayout.github.io/)
 - Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [[paper]](https://arxiv.org/abs/2506.00070)
 - Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization [[paper]](https://arxiv.org/abs/2505.15660) [[project page]](https://jiaming-zhou.github.io/AGNOSTOS/)
@@ -204,6 +210,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### GUI
 
+- LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization [[paper]](https://arxiv.org/abs/2506.09373) [[code]](https://github.com/AIDC-AI/LPO)
 - GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior [[paper]](https://arxiv.org/abs/2506.08012) [[code]](https://penghao-wu.github.io/GUI_Reflection/)
 - Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation [[paper]](https://arxiv.org/abs/2506.04614) [[code]](https://github.com/X-PLUG/MobileAgent/tree/main/GUI-Critic-R1)
 - GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents [[paper]](https://arxiv.org/abs/2505.15810)
@@ -212,11 +219,13 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Other Modalities
 
+- **[Workflow]** ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[paper]](https://arxiv.org/abs/2506.09790) [[code]](https://github.com/AIDC-AI/ComfyUI-Copilot)
 - **[Tabular]** Multimodal Tabular Reasoning with Privileged Structured Information [[paper]](https://arxiv.org/abs/2506.04088)
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
 
 #### Generation
 
+- **[Human Motion]** Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation [[paper]](https://arxiv.org/abs/2506.10353)
 - **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]()](https://arxiv.org/abs/2505.24499)
 - **[Image]** ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL [[paper]](https://arxiv.org/abs/2505.24875) [[project page]](https://aka.ms/reasongen)
 - **[Video]** Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [[paper]](https://arxiv.org/abs/2505.21653) [[project page]](https://bwgzk-keke.github.io/DiffPhy/)
@@ -237,6 +246,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- **[Video]** VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos [[paper]](https://arxiv.org/abs/2506.10857) [[project page]](https://vrbench.github.io/)
 - AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs [[paper]](https://arxiv.org/abs/2506.05328) [[project page]](https://av-reasoner.github.io/)
 - **[Video]** MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos [[paper]](https://arxiv.org/abs/2506.04141) [[project page]](https://mmr-v.github.io/)
 - **[Medical]** DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis? [[paper]](https://arxiv.org/abs/2505.24173) [[code]](https://github.com/Jerry-Boss/DrVD-Bench)
