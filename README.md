@@ -69,6 +69,10 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models [[paper]](https://arxiv.org/abs/2506.14674)
+- PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning [[paper]](https://arxiv.org/abs/2506.14907) [[code]](https://github.com/alchemistyzz/PeRL)
+- Reinforcing VLMs to Use Tools for Detailed Visual Reasoning Under Resource Constraints [[paper]](https://arxiv.org/abs/2506.14821)
+- VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training [[paper]](https://arxiv.org/abs/2506.13888) [[code]](https://github.com/2003pro/vlgenrm)
 - Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning [[paper]](https://arxiv.org/abs/2506.09736) [[code]](https://github.com/YutingLi0606/Vision-Matters)
 - ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs [[paper]](https://arxiv.org/abs/2506.10128) [[code]](https://github.com/si0wang/ViCrit)
 - Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining [[paper]](https://arxiv.org/abs/2506.08022)
@@ -201,6 +205,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Driving
 
+- ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving [[paper]](https://arxiv.org/abs/2506.08052?) [[project page]](https://xiaomi-research.github.io/recogdrive)
+- Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving [[paper]](https://arxiv.org/abs/2506.11234)
 - Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling [[paper]](https://arxiv.org/abs/2505.17659)
 - AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15298)
 - HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving [[paper]](https://arxiv.org/abs/2505.15793)
@@ -219,6 +225,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Other Modalities
 
+- **[Tabular]** MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space [[paper]](https://arxiv.org/abs/2506.11684) [[data]](https://huggingface.co/datasets/mtabvqa/MTabVQA-Eval)
 - **[Workflow]** ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[paper]](https://arxiv.org/abs/2506.09790) [[code]](https://github.com/AIDC-AI/ComfyUI-Copilot)
 - **[Tabular]** Multimodal Tabular Reasoning with Privileged Structured Information [[paper]](https://arxiv.org/abs/2506.04088)
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
