@@ -26,6 +26,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs [[paper]](https://arxiv.org/abs/2506.17901)
+
 - **[Image]** Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning [[paper]](https://arxiv.org/abs/2506.04034) [[code]](https://github.com/IDEA-Research/Rex-Thinker)
 - **[Image]** DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models [[paper]](https://arxiv.org/abs/2505.24025) [[code]](https://christinepan881.github.io/DINO-R1/)
 - **[Image]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.23380) [[code]](https://github.com/showlab/UniRL)
@@ -69,6 +71,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2506.16141)
+
+- **[EXAIT@ICML 2025]** Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[paper]](https://openreview.net/forum?id=iMfaTyDpRA)
 - Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models [[paper]](https://arxiv.org/abs/2506.14674)
 - PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning [[paper]](https://arxiv.org/abs/2506.14907) [[code]](https://github.com/alchemistyzz/PeRL)
 - Reinforcing VLMs to Use Tools for Detailed Visual Reasoning Under Resource Constraints [[paper]](https://arxiv.org/abs/2506.14821)
@@ -148,6 +153,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Robotics/Spatial
 
+- Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations [[paper]](https://arxiv.org/abs/2506.17545)
+- VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning [[paper]](https://arxiv.org/abs/2506.17221) [[project page]](https://vlnr1.github.io/)
 - EQA-RM: A Generative Embodied Reward Model with Test-time Scaling [[paper]](https://arxiv.org/abs/2506.10389) [[code]](https://github.com/UNITES-Lab/EQA-RM)
 - VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.09049) [[project page]](https://faceong.github.io/VIKI-R/)
 - TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2506.08440) [[code]](https://github.com/hahans/TGRPO)
@@ -166,6 +173,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs [[paper]](https://arxiv.org/abs/2506.16962) [[code]](https://github.com/manglu097/Chiron-o1)
+- GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.17939) [[code]](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
 - RARL: Improving Medical VLM Reasoning and Generalization with Reinforcement Learning and LoRA under Data and Hardware Constraints [[paper]](https://arxiv.org/abs/2506.06600) [[code]](https://github.com/Hanhpt23/MedicalImagingReasoning)
 - MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning [[paper]](https://arxiv.org/abs/2506.00555)
 - QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training [[paper]](https://arxiv.org/abs/2506.00711)
@@ -205,6 +214,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Driving
 
+- Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.18234)
 - ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving [[paper]](https://arxiv.org/abs/2506.08052?) [[project page]](https://xiaomi-research.github.io/recogdrive)
 - Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving [[paper]](https://arxiv.org/abs/2506.11234)
 - Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling [[paper]](https://arxiv.org/abs/2505.17659)
@@ -225,12 +235,16 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Other Modalities
 
+- **[Chemistry]** Training a Scientific Reasoning Model for Chemistry [[paper]](https://arxiv.org/abs/2506.17238)
+
 - **[Tabular]** MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space [[paper]](https://arxiv.org/abs/2506.11684) [[data]](https://huggingface.co/datasets/mtabvqa/MTabVQA-Eval)
 - **[Workflow]** ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[paper]](https://arxiv.org/abs/2506.09790) [[code]](https://github.com/AIDC-AI/ComfyUI-Copilot)
 - **[Tabular]** Multimodal Tabular Reasoning with Privileged Structured Information [[paper]](https://arxiv.org/abs/2506.04088)
 - Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications [[paper]](https://arxiv.org/abs/2505.04068)
 
 #### Generation
+
+- **[Super Resolution]** RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [[paper]](https://arxiv.org/abs/2506.16796) [[code]](https://github.com/Junboooo/RealSR-R1)
 
 - **[Human Motion]** Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation [[paper]](https://arxiv.org/abs/2506.10353)
 - **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]()](https://arxiv.org/abs/2505.24499)
