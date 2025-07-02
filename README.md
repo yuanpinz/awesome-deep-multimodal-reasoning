@@ -173,6 +173,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Evidence-based diagnostic reasoning with multi-agent copilot for human pathology [[paper]](https://arxiv.org/abs/2506.20964)
+- An Agentic System for Rare Disease Diagnosis with Traceable Reasoning [[paper]](https://arxiv.org/abs/2506.20430) [[demo]](http://raredx.cn/doctor)
+- Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.19469) [[code]](https://github.com/FiFi-HAO467/Surgery-R1)
 - Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs [[paper]](https://arxiv.org/abs/2506.16962) [[code]](https://github.com/manglu097/Chiron-o1)
 - GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.17939) [[code]](https://huggingface.co/datasets/BoKelvin/GEMeX-ThinkVG)
 - RARL: Improving Medical VLM Reasoning and Generalization with Reinforcement Learning and LoRA under Data and Hardware Constraints [[paper]](https://arxiv.org/abs/2506.06600) [[code]](https://github.com/Hanhpt23/MedicalImagingReasoning)
@@ -244,8 +247,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Generation
 
+- **[Audio]** ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing [[paper]](https://arxiv.org/abs/2506.21448) [[project page]](https://thinksound-project.github.io/)
 - **[Super Resolution]** RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [[paper]](https://arxiv.org/abs/2506.16796) [[code]](https://github.com/Junboooo/RealSR-R1)
-
 - **[Human Motion]** Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation [[paper]](https://arxiv.org/abs/2506.10353)
 - **[Image]** Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation [[paper]()](https://arxiv.org/abs/2505.24499)
 - **[Image]** ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL [[paper]](https://arxiv.org/abs/2505.24875) [[project page]](https://aka.ms/reasongen)
@@ -267,6 +270,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- **[Video]** ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models [[paper]](https://arxiv.org/abs/2506.21356)
+- PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models [[paper]](https://arxiv.org/abs/2506.17667) [[project page]](https://prismax-team.github.io/PhysUniBenchmark/)
 - **[Video]** VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos [[paper]](https://arxiv.org/abs/2506.10857) [[project page]](https://vrbench.github.io/)
 - AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs [[paper]](https://arxiv.org/abs/2506.05328) [[project page]](https://av-reasoner.github.io/)
 - **[Video]** MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos [[paper]](https://arxiv.org/abs/2506.04141) [[project page]](https://mmr-v.github.io/)
