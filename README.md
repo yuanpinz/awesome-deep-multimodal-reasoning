@@ -26,6 +26,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.22624) [[project page]](https://geshang777.github.io/seg-r1.github.io/)
+- **[Video]** R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.21980) [[code]](https://github.com/Wangbiao2/R1-Track)
+
 - **[Image]** PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs [[paper]](https://arxiv.org/abs/2506.17901)
 
 - **[Image]** Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning [[paper]](https://arxiv.org/abs/2506.04034) [[code]](https://github.com/IDEA-Research/Rex-Thinker)
@@ -71,8 +74,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Towards Explainable Bilingual Multimodal Misinformation Detection and Localization [[paper]](https://arxiv.org/abs/2506.22930)
+- Listener-Rewarded Thinking in VLMs for Image Preferences [[paper]](https://arxiv.org/abs/2506.22832)
+- MiCo: Multi-image Contrast for Reinforcement Visual Reasoning [[paper]](https://arxiv.org/abs/2506.22434)
+- APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization [[paper]](https://arxiv.org/abs/2506.21655) [[code]](https://github.com/Indolent-Kawhi/View-R1)
 - GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2506.16141)
-
 - **[EXAIT@ICML 2025]** Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models [[paper]](https://openreview.net/forum?id=iMfaTyDpRA)
 - Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models [[paper]](https://arxiv.org/abs/2506.14674)
 - PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning [[paper]](https://arxiv.org/abs/2506.14907) [[code]](https://github.com/alchemistyzz/PeRL)
@@ -270,6 +276,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Benchmarks
 
+- DABstep: Data Agent Benchmark for Multi-step Reasoning [[paper]](https://arxiv.org/abs/2506.23719) [[code]](https://huggingface.co/spaces/adyen/DABstep)
 - **[Video]** ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models [[paper]](https://arxiv.org/abs/2506.21356)
 - PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models [[paper]](https://arxiv.org/abs/2506.17667) [[project page]](https://prismax-team.github.io/PhysUniBenchmark/)
 - **[Video]** VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos [[paper]](https://arxiv.org/abs/2506.10857) [[project page]](https://vrbench.github.io/)
