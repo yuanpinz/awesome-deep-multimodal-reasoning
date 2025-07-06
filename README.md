@@ -18,6 +18,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 ### Surveys
 
+- Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers [[paper]](https://arxiv.org/abs/2506.23918) [[code]](https://github.com/zhaochen0110/Awesome_Think_With_Images)
 - Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models [[paper]](https://arxiv.org/abs/2505.04921) [[code]](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)
 - Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2504.21277)
 - Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2503.12605) [[code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
@@ -74,6 +75,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.01006) [[code]](https://github.com/THUDM/GLM-4.1V-Thinking)
+- Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames [[paper]](https://arxiv.org/abs/2507.02001)
+- Multimodal Mathematical Reasoning with Diverse Solving Perspective [[paper]](https://arxiv.org/abs/2507.02804)
+- VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.02626)
+- Improving the Reasoning of Multi-Image Grounding in MLLMs via Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.00748)
 - Towards Explainable Bilingual Multimodal Misinformation Detection and Localization [[paper]](https://arxiv.org/abs/2506.22930)
 - Listener-Rewarded Thinking in VLMs for Image Preferences [[paper]](https://arxiv.org/abs/2506.22832)
 - MiCo: Multi-image Contrast for Reinforcement Visual Reasoning [[paper]](https://arxiv.org/abs/2506.22434)
