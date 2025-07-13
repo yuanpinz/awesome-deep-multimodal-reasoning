@@ -27,6 +27,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Video]** Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.04702)
+
 - **[Image]** Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.22624) [[project page]](https://geshang777.github.io/seg-r1.github.io/)
 - **[Video]** R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.21980) [[code]](https://github.com/Wangbiao2/R1-Track)
 
@@ -75,6 +77,10 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.05920) [[code]](https://github.com/EvolvingLMMs-Lab/MGPO)
+
+- Look-Back: Implicit Visual Re-focusing in MLLM Reasoning [[paper]](https://arxiv.org/abs/2507.03019) [[code]](https://github.com/PKU-YuanGroup/Look-Back)
+- Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning [[paper]]https://arxiv.org/abs/2507.05255()
 - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.01006) [[code]](https://github.com/THUDM/GLM-4.1V-Thinking)
 - Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames [[paper]](https://arxiv.org/abs/2507.02001)
 - Multimodal Mathematical Reasoning with Diverse Solving Perspective [[paper]](https://arxiv.org/abs/2507.02804)
@@ -185,6 +191,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- **[MICCAI 2025]** MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2507.02994v1) [[code]](https://github.com/bio-mlhui/MedGround-R1)
 - Evidence-based diagnostic reasoning with multi-agent copilot for human pathology [[paper]](https://arxiv.org/abs/2506.20964)
 - An Agentic System for Rare Disease Diagnosis with Traceable Reasoning [[paper]](https://arxiv.org/abs/2506.20430) [[demo]](http://raredx.cn/doctor)
 - Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.19469) [[code]](https://github.com/FiFi-HAO467/Surgery-R1)
