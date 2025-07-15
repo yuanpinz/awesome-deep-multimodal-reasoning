@@ -77,8 +77,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- Scaling RL to Long Videos [[paper]](https://arxiv.org/abs/2507.07966)
+- VIDEO-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning [[paper]](https://arxiv.org/abs/2507.06485)
+- Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs [[paper]]()https://arxiv.org/abs/2507.06999
+- Perception-Aware Policy Optimization for Multimodal Reasoning [[paper]](https://arxiv.org/abs/2507.06448) [[project page]](https://mikewangwzhl.github.io/PAPO)
 - High-Resolution Visual Reasoning via Multi-Turn Grounding-Based Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.05920) [[code]](https://github.com/EvolvingLMMs-Lab/MGPO)
-
 - Look-Back: Implicit Visual Re-focusing in MLLM Reasoning [[paper]](https://arxiv.org/abs/2507.03019) [[code]](https://github.com/PKU-YuanGroup/Look-Back)
 - Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning [[paper]]https://arxiv.org/abs/2507.05255()
 - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.01006) [[code]](https://github.com/THUDM/GLM-4.1V-Thinking)
