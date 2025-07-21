@@ -27,13 +27,11 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Understanding
 
+- **[Image]** HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation [[paper]](https://arxiv.org/abs/2507.12883) [[code]](https://github.com/WeihuangLin/HRSeg)
 - **[Video]** Tempo-R0: A Video-MLLM for Temporal Video Grounding through Efficient Temporal Sensing Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.04702)
-
 - **[Image]** Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.22624) [[project page]](https://geshang777.github.io/seg-r1.github.io/)
 - **[Video]** R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning [[paper]](https://arxiv.org/abs/2506.21980) [[code]](https://github.com/Wangbiao2/R1-Track)
-
 - **[Image]** PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs [[paper]](https://arxiv.org/abs/2506.17901)
-
 - **[Image]** Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning [[paper]](https://arxiv.org/abs/2506.04034) [[code]](https://github.com/IDEA-Research/Rex-Thinker)
 - **[Image]** DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models [[paper]](https://arxiv.org/abs/2505.24025) [[code]](https://christinepan881.github.io/DINO-R1/)
 - **[Image]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [[paper]](https://arxiv.org/abs/2505.23380) [[code]](https://github.com/showlab/UniRL)
@@ -77,6 +75,9 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- LaViPlan : Language-Guided Visual Path Planning with RLVR [[paper]](https://arxiv.org/abs/2507.12911)
+- VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.13348) [[code]](https://github.com/dvlab-research/VisionThink)
+- Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning [[paper]](https://arxiv.org/abs/2507.12215)
 - ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference [[paper]](https://arxiv.org/abs/2507.10800) [[code]](https://github.com/ds-kiel/ThinkingViT)
 - M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning [[paper]](https://arxiv.org/abs/2507.08306) [[code]](https://github.com/inclusionAI/M2-Reasoning)
 - Scaling RL to Long Videos [[paper]](https://arxiv.org/abs/2507.07966)
