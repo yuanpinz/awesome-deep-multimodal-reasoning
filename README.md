@@ -77,6 +77,8 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Visual Reasoning
 
+- ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference [[paper]](https://arxiv.org/abs/2507.10800) [[code]](https://github.com/ds-kiel/ThinkingViT)
+- M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning [[paper]](https://arxiv.org/abs/2507.08306) [[code]](https://github.com/inclusionAI/M2-Reasoning)
 - Scaling RL to Long Videos [[paper]](https://arxiv.org/abs/2507.07966)
 - VIDEO-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning [[paper]](https://arxiv.org/abs/2507.06485)
 - Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs [[paper]]()https://arxiv.org/abs/2507.06999
@@ -194,6 +196,7 @@ Collect the awesome works evolved around reasoning models like O1/R1 in multimod
 
 #### Medical
 
+- Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models [[paper]](https://arxiv.org/abs/2507.09279) [[code]](https://github.com/xingbpshen/prompt4trust)
 - **[MICCAI 2025]** MedGround-R1: Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization [[paper]](https://arxiv.org/abs/2507.02994v1) [[code]](https://github.com/bio-mlhui/MedGround-R1)
 - Evidence-based diagnostic reasoning with multi-agent copilot for human pathology [[paper]](https://arxiv.org/abs/2506.20964)
 - An Agentic System for Rare Disease Diagnosis with Traceable Reasoning [[paper]](https://arxiv.org/abs/2506.20430) [[demo]](http://raredx.cn/doctor)
